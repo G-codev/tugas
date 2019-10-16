@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Input Nama</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="listview">Listview</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="hasaa" />
+    <string name="nama_anda">Nama Anda :</string>
+    <string name="_0">0</string>
+    <string name="hasil">HASIL</string>
+    <string name="bersihkan">BERSIHKAN</string>
+    <string name="lus">*</string>
+    <string name="bagian">/</string>
+    <string name="ambil">-</string>
+    <string name="tambahan">+</string>
+    <string name="masukan_angka_pertama">Masukan Angka Pertama</string>
+    <string name="maukan_angka_ke_dua">Maukan Angka Ke dua</string>
+    <string name="masukan_dua_angka">Masukan Dua Angka</string>
+    <string name="kembali">KEMBALI</string>
+</resources>
